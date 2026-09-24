@@ -3,7 +3,7 @@
 > **HNSOMS (Hop Nhat Smart Operation Maintenance Solution)** là thiết bị thông minh do Hợp Nhất phát triển nhằm hỗ trợ doanh nghiệp theo dõi, giám sát và điều khiển từ xa hoạt động của các thiết bị trong hệ thống xử lý môi trường.
 
 Trong bối cảnh chuyển đổi số và tự động hóa ngày càng được doanh nghiệp quan tâm, việc ứng dụng thiết bị thông minh vào công tác vận hành - bảo trì giúp nâng cao khả năng giám sát, chủ động xử lý sự cố và tối ưu nguồn lực. HNSOMS được thiết kế để hỗ trợ giám sát một hoặc nhiều thiết bị trong các hệ thống xử lý nước thải, khí thải, nước cấp và có thể mở rộng cho các hệ thống sản xuất khác.
-(https://moitruonghopnhat.com/uploads/images/Dich-vu/moitruonghopnhat-giai-phap-hnsoms.jpg)
+
 
 ## Mục lục
 
